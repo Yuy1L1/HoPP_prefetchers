@@ -1,6 +1,6 @@
 #include "dominator.h"
 #include "ladder.h"
-#include "hopp_prefetcher.h"
+#include "hopp_support.h"
 
 
 int main() {

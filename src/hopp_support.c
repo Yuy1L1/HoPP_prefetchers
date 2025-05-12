@@ -1,4 +1,4 @@
-#include "hopp_prefetcher.h"
+#include "hopp_support.h"
 #include "dominator.h"
 #include "ladder.h"
 #include "ripple.h"  // Not yet implemented

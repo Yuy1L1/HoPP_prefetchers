@@ -1,7 +1,7 @@
 #ifndef DOMINATORS_H
 #define DOMINATORS_H
 
-#include "hopp_prefetcher.h"
+#include "hopp_support.h"
 
 
 // Dominator Prefetcher Function
